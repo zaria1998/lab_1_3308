@@ -1,1 +1,2 @@
-test is good or not
+test is good 
+good day
